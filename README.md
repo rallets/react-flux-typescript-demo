@@ -17,7 +17,7 @@ This example uses:
 
 In addition I tried to convert to Typescript where possible without a complete rewrite.
 
-In my opinion this is not a good example of Typescript-first project-design, so just use it as a reference to strongly type this course example.
+This example project was not designed to use Typescript, so just use it as a reference to strongly type the existing code.
 
 ## Available Scripts
 
